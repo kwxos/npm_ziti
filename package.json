@@ -1,0 +1,14 @@
+{
+  "name": "kwxoswoff20jscss",
+  "version": "1.0.2",
+  "description": "Rubik woff2 public repo.",
+  "files": [
+    "fonts/*"
+  ],
+  "keywords": [
+    "woff2",
+    "rubik"
+  ],
+  "author": "kwxos",
+  "license": "MIT"
+}
